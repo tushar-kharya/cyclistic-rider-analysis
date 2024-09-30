@@ -1,7 +1,7 @@
 # Cyclistic Rider Analysis
 
 ## Overview
-**Cyclistic Rider Analysis** is a data analysis project that examines the usage patterns of Cyclistic's bike-share service in Chicago. The project aims to understand how casual riders and annual members use Cyclistic bikes differently, providing data-driven insights to help convert casual riders into annual members. This analysis follows a structured process including data cleaning, transformation, analysis, visualization, and recommendations.
+**Cyclistic Rider Analysis** is a case study from the Google Data Analytics Specialization Capstone, It serves as a data analysis project that examines the usage patterns of Cyclistic's bike-share service in Chicago. The project aims to understand how casual riders and annual members use Cyclistic bikes differently, providing data-driven insights to help convert casual riders into annual members. This analysis follows a structured process including data cleaning, analysis, visualization, and recommendations.
 
 ## Highlights
 - Conducted data cleaning and transformation using SQL to prepare Cyclistic's 12-month trip data for analysis, ensuring data integrity by addressing missing values and inconsistencies.
@@ -47,7 +47,7 @@
 
 ## Presentation
 A detailed presentation of the Cyclistic Rider Analysis, including key insights, visualizations, and recommendations, can be found here:
-- **[Cyclistic Rider Analysis Presentation (PDF)](file:///C:/Users/Owner/Downloads/Case%20Study_%20Cyclistic%20Rider%20Analysis.pdf)**
+- **[Cyclistic Rider Analysis Presentation (PDF)](https://docs.google.com/presentation/d/1BLcbv_KQcrIheA77xXCgILxiNkxDbeG_9IV564l-XNg/edit?usp=drive_link)**
 
 ## Data Source
 The data used in this analysis was sourced from Cyclistic's historical trip data. The dataset includes information such as trip duration, start and end times, and rider types, allowing for a comprehensive analysis of user behavior. The data was provided under an open license and prepared for analysis using Google BigQuery. The original dataset in CSV format is also available here:
