@@ -35,12 +35,6 @@
    - Proposed tailored membership plans for longer ride durations to match the behavior of casual riders.
    - Recommended personalized digital engagement strategies to drive conversion based on usage patterns.
 
-## Key Insights
-- **Histogram of Ride Lengths**: Casual riders tend to have longer ride durations compared to annual members, suggesting potential marketing opportunities focused on offering incentives for long-duration rides.
-- **Line Chart for Weekly Usage**: Both casual riders and members have higher ridership on weekends, with casual riders showing a more significant increase, indicating that weekend promotions may be effective.
-- **Bar Chart for Average Ride Length**: The average ride duration is consistently longer for casual riders, indicating that they may benefit from membership plans tailored for long-duration rides.
-
-
 ## Presentation
 A detailed presentation of the Cyclistic Rider Analysis, including key insights, visualizations, and recommendations, can be found here:
 - **[Cyclistic Rider Analysis Presentation (PDF)](https://docs.google.com/presentation/d/1BLcbv_KQcrIheA77xXCgILxiNkxDbeG_9IV564l-XNg/edit?usp=drive_link)**
