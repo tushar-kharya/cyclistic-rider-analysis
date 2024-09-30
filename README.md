@@ -40,10 +40,6 @@
 - **Line Chart for Weekly Usage**: Both casual riders and members have higher ridership on weekends, with casual riders showing a more significant increase, indicating that weekend promotions may be effective.
 - **Bar Chart for Average Ride Length**: The average ride duration is consistently longer for casual riders, indicating that they may benefit from membership plans tailored for long-duration rides.
 
-## Final Recommendations
-1. **Target Casual Riders on Leisure Days**: Engage casual riders with promotional offers and discounts on weekends to encourage conversions to annual memberships.
-2. **Develop Customized Membership Packages**: Leverage the fact that casual riders have longer ride durations by offering special membership plans that emphasize the financial benefits for long-distance rides.
-3. **Enhance Digital Engagement**: Implement targeted digital campaigns, such as personalized app notifications and emails, to engage casual riders and promote the advantages of an annual membership.
 
 ## Presentation
 A detailed presentation of the Cyclistic Rider Analysis, including key insights, visualizations, and recommendations, can be found here:
