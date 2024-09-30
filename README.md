@@ -1,7 +1,7 @@
 # Cyclistic Rider Analysis
 
 ## Overview
-**Cyclistic Rider Analysis** is a case study from the Google Data Analytics Specialization Capstone, It serves as a data analysis project that examines the usage patterns of Cyclistic's bike-share service in Chicago. The project aims to understand how casual riders and annual members use Cyclistic bikes differently, providing data-driven insights to help convert casual riders into annual members. This analysis follows a structured process including data cleaning, analysis, visualization, and recommendations.
+**Cyclistic Rider Analysis** is a case study from the Google Data Analytics Specialization Capstone. It serves as a data analysis project that examines the usage patterns of Cyclistic's bike-share service in Chicago. The project aims to understand how casual riders and annual members use Cyclistic bikes differently, providing data-driven insights to help convert casual riders into annual members. This analysis follows a structured process including data cleaning, analysis, visualization, and recommendations.
 
 ## Highlights
 - Conducted data cleaning and transformation using SQL to prepare Cyclistic's 12-month trip data for analysis, ensuring data integrity by addressing missing values and inconsistencies.
