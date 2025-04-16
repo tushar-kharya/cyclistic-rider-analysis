@@ -41,6 +41,3 @@ A detailed presentation of the Cyclistic Rider Analysis, including key insights,
 
 ## Data Source
 The data used in this analysis was sourced from Cyclistic's historical trip data in the last 12 months. The dataset includes information such as trip duration, start and end times, and rider types, allowing for a comprehensive analysis of user behavior. The data was provided under an open license and prepared for analysis using Google BigQuery.
-
-## Conclusion
-The **Cyclistic Rider Analysis** provides an in-depth understanding of how casual riders and annual members use the bike-share service. The findings reveal key differences in behavior, such as ride duration and peak riding times, which can be leveraged to drive conversions from casual riders to annual members. By targeting casual riders on weekends, offering customized membership options for longer rides, and improving digital engagement, Cyclistic can effectively increase customer retention and boost revenue. The insights derived from this project offer actionable steps that can significantly enhance Cyclistic's marketing strategies and overall user experience.
